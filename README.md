@@ -1,6 +1,8 @@
 Food Deserts
 ================
 
+Take a look at the demo site at [http://fooddeserts.herokuapp.com](http://fooddeserts.herokuapp.com)
+
 An online platform that maps food deserts (an urban area in which it is difficult to buy affordable or good-quality fresh food) against obesity levels to identify areas that would benefit from introducing healthy food suppliers.
 
 These data points could also be mapped against other data points, such as unemployment rates and education levels/performance in food deserts, to try and uncover causation and disadvantages from living in a food desert.
