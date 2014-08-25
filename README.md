@@ -1,48 +1,38 @@
-Fooddes
+Food Deserts
 ================
 
-This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
-provided by the [RailsApps Project](http://railsapps.github.io/).
+An online platform that maps food deserts (an urban area in which it is difficult to buy affordable or good-quality fresh food) against obesity levels to identify areas that would benefit from introducing healthy food suppliers.
 
-Rails Composer is open source and supported by subscribers. Please join RailsApps to support development of Rails Composer.
+These data points could also be mapped against other data points, such as unemployment rates and education levels/performance in food deserts, to try and uncover causation and disadvantages from living in a food desert.
 
-Problems? Issues?
+The project can be extended into projects that meet people's real needs. For example, we could take a example place (Canning Town in London), take a benchmark before intervention takes place, then show benefits and advantages gained post-project.
+
+Many studies on food deserts exist, but few use open data to map affected areas. Creating an open data project around identifying food deserts across the UK, then crossing this with existing data around obesity levels, educational levels/performance and transport links would give an idea of food deserts that could be helped through a range of initiatives.
+
+Data sets we'll use
 -----------
 
-Need help? Ask on Stack Overflow with the tag 'railsapps.'
+- Living costs and food survey
+- Statistics on obesity, physical activity and diet
+- Health survey for England
+- Open Nutrition Database
+- Food security indicators
 
-Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
+Data sets we'll create
+-----------
 
-If the application doesn’t work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
-and include the diagnostics.
+- Map of UK food deserts - a US map exists here: http://www.ers.usda.gov/data/fooddesert
+- Data reporting on correlation between food deserts and obesity 
 
-Ruby on Rails
--------------
+Help we need
+-----------
 
-This application requires:
+- Use of open data
+- Data acquisition
+- Data mapping
+- Sustainability of data
 
-- Ruby 2.0.0
-- Rails 4.1.5
+Potential Partners
+-----------
 
-Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
-
-Getting Started
----------------
-
-Documentation and Support
--------------------------
-
-Issues
--------------
-
-Similar Projects
-----------------
-
-Contributing
-------------
-
-Credits
--------
-
-License
--------
+- TBC, leave a comment if interested in collaborating
